@@ -1635,7 +1635,7 @@
   {
   "recordId": "bingchenhu2-neurohydro",
   "projectName": "NeuroHydro",
-  "demoUrl": "YOUR RENDER LINK",
+  "demoUrl": "https://neurohydro.vercel.app/",
   "codeUrl": "https://github.com/BingchenHu2/NeuroHydro",
   "githubUsername": "BingchenHu2",
   "imageSrc": "/gallery/placeholder.svg"
